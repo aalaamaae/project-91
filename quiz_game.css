@@ -1,0 +1,9 @@
+#output
+{
+background: rgb(255, 255, 255);
+border-radius: 10px;
+border-top: 10px solid #ff0000;
+padding: 10px;
+float: none;
+text-align: left;
+}
